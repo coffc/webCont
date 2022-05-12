@@ -1,0 +1,26 @@
+{
+  "name": "webcont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffc/webCont.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coffc/webCont/issues"
+  },
+  "homepage": "https://github.com/coffc/webCont#readme",
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "lit": "^2.2.3"
+  }
+}
